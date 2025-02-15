@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Introduction to X++
 ---
 
 # Introduction to X++
