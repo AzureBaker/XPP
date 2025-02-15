@@ -9,7 +9,7 @@ Welcome to the world of **X++**, the programming language that powers **Dynamics
 
 ## What is X++?
 
-X++ is a powerful, object-oriented programming language used primarily for customizing and extending applications built on **Dynamics 365 Finance and Supply Chain Management (D365F&SCM)**. It’s an extension of **C++** and **C#**, designed to integrate seamlessly with the **MorphX** development environment in AX (previously used for Dynamics AX, the precursor to D365F&SCM). 
+X++ is a powerful, object-oriented programming language used primarily for customizing and extending applications built on **Dynamics 365 Finance and Supply Chain Management (D365F&SCM)**. It’s an extension of **C++** and **C#**. 
 
 X++ is specifically tailored to meet the needs of business applications, allowing developers to write code that interacts with business logic, data, and the user interface in D365F&SCM.
 
